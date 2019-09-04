@@ -1,3 +1,8 @@
+
+
+
+
+
 # Ruby Object Relations: Has-Many-Through
 
 ## Objectives
